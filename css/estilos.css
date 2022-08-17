@@ -1,0 +1,262 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.encabezado{
+    font-size: medium;
+    font-weight: bolder;
+    text-align: center;
+    top: 300px;
+}
+
+.contenedor__logo{
+    width: 100cm;
+    height: 150px;
+}
+
+.id__contenedor{
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    height: 150px;
+}
+
+header{
+    color: rgb(227, 226, 208);
+    position: relative;
+}
+
+.navegadores{
+    position: absolute;
+    right: 100px;
+    top: 80px;
+    left: 50%;
+    word-spacing: 25px;
+    font-family:"Titillium Web",serif;
+    color: #939598;
+    font-weight: 300;
+}
+
+.titulo{
+    position: absolute;
+    top: 500px;
+    left: 5px;
+    font-family: 'Viga', sans-serif;
+    font-size: 64px;
+}
+
+.subtitulo{
+    position: absolute;
+    top: 600px;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 32px;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bolder;
+    border: 2px;
+    color: #939598;
+    font-size: 150%;
+    padding: 1,5%;
+}
+
+.informacion{
+    font-size: 35px;
+    color: #939598;
+    font-family:"Titillium Web",serif;
+}
+
+.parrafo{
+    font-size: x-large;
+    font-family: 'Roboto', sans-serif;
+}
+
+.subParrafo{
+    font-family: 'Roboto', sans-serif;
+    font-size:large;
+}
+
+.info2{
+    font-size: 35px;
+    color: #939598;
+    font-family:"Titillium Web",serif;
+}
+
+.subInfo{
+    font-size:medium;
+    font-family: 'Roboto', sans-serif;
+}
+
+.interior{
+    position: relative;
+    width: 100%;
+    height: 500px;
+}
+
+.proInterior{
+    font-size: 20px;
+    bottom: 45px;
+}
+
+.interiorTitulo{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    font-size:large;
+    font-weight: bolder;
+}
+
+.fotoInterior{
+    position: absolute;
+    top: 80px;
+    width: 30%;
+    height: 350px;
+}
+
+.diseñoTitulo{
+    position: absolute;
+    text-align: center;
+    top: 50px;
+    left: 500px;
+
+}
+
+.fotoDiseño{
+    position: absolute;
+    width: 30%;
+    height: 350px;
+    top: 80px;
+    right: 510px;
+}
+.remodelaciontitulo{
+    position: absolute;
+    top: 50px;
+    left: 978px;
+}
+
+.fotoRemodelacion{
+    position: absolute;
+    width: 30%;
+    height: 350px;
+    right: 30px;
+    top: 80px;
+}
+ 
+.terminacion{
+    position: relative;
+    background-color: aqua;
+}
+
+.contacto{
+    font-size: large;
+    font-weight: bolder;
+    left: 700px;
+}
+
+.imagenNosotros{
+    height: 1000px;
+}
+
+.tituloNosotros{
+    position: absolute;
+    top: 500px;
+    left: 5px;
+    font-family: 'Viga', sans-serif;
+    font-size: 64px;
+    text-align: center;
+    left: 30%;
+    top: 50%;
+}
+
+.subtituloNosotros{
+    position: absolute;
+    top: 600px;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 32px;
+    font-weight: lighter;
+}
+.infoNosotros{
+    position: relative;
+    font-family: 'Nanum Gothic', sans-serif;
+    color:slategrey
+}
+
+.textoNosotros{
+    font-size:x-large;
+}
+
+.contactanos{
+    color: gainsboro;
+}
+
+.formulario{
+    font-size:x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.postulacion{
+    position: absolute;
+    left: 25%;
+}
+
+.registro{
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+}
+
+.footer{
+    color: rgb(227, 226, 208);
+    position: relative;
+}
+
+.div__logo{
+    width: 20%;
+    height: 5em;
+    float: left;
+    background-color: black;
+}
+
+.div__logo img{
+    width: 100%;
+    height: 100%;
+}
+
+.info{
+    background-color: beige;
+    color: black;
+    width: 50%;
+    float: right;
+    position: absolute;
+    top: 30px;
+    left: 800px;
+}   
+
+.controles{
+    width: 100%;
+    border-bottom: 2px solid whitesmoke;
+    border-radius: 3px;
+    margin: 8px 0;
+    display: inline-block;
+    grid-row: 1 / 1;
+}
+ .mapa{
+     height: 400px;
+     width: 1000px;
+ }
+
+ .serv{
+    font-family: 'Viga', sans-serif;
+ }
+
+ .arqui1{
+     text-align: center;
+     background-color: beige;
+ }
+
+ .arqui2{
+    font-family: 'Roboto', sans-serif;
+ }
